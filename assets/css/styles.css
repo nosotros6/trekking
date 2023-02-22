@@ -1,0 +1,80 @@
+.fondo {
+    background-color: rgb(45, 43, 43);
+}
+/* .fondoHome {
+    background-image: url("/assets/img/LagunaChica.jpeg");
+} */
+.headerMenu {
+    margin: auto;
+    background-image: url("/assets/img/atardecer.jpeg");
+    background-repeat: no-repeat;
+    height: 700px;
+    padding-top: 50px;
+}
+.menu {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 30px;
+   
+}
+.menuCuenta {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-left: 500px;
+}
+h1, h2, h5 {
+    color: rgb(28, 183, 207);
+    text-transform: uppercase;
+    text-align: center;
+}
+h3 {
+    color: white;
+}
+.logo {
+    width: 7%;
+}
+p {
+    color: rgb(28, 183, 207);
+}
+a{
+    text-decoration: none;
+}
+.redes {
+    color: white;
+}
+.textFooter {
+    font-size: small;
+    color: white;
+}
+.avatar {
+    width: 70%;
+}
+.misPasos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-707%, -46%);
+    width: 60px;
+    height: 690px;
+}
+.misPasosTitle {
+    position: absolute;
+    top: 60%;
+    left: 200%;
+    transform: translate(-353%, -56%);
+    width: 60px;
+    height: 727px;
+}
+.misPasosImg {
+    width: 690%;
+}
+
+.divReto {
+    display: flex;
+    justify-content: start;
+    align-content: start;
+    margin-top: 0;
+    padding-left: 0;
+}
