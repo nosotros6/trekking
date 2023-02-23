@@ -1,9 +1,17 @@
 .fondo {
     background-color: rgb(45, 43, 43);
 }
-/* .fondoHome {
-    background-image: url("/assets/img/LagunaChica.jpeg");
-} */
+.fondo2 {
+    margin: auto;
+    background-image: url("/assets/img/contacto2.jpg");
+    background-repeat: no-repeat;
+    height: 2000px;
+    width: 100%;
+}
+.contactoTitle {
+    margin-top: 50px;
+    margin-bottom: 250px;
+}
 .headerMenu {
     margin: auto;
     background-image: url("/assets/img/atardecer.jpeg");
@@ -40,6 +48,9 @@ p {
 }
 a{
     text-decoration: none;
+}
+.linkHome{
+    color: white;
 }
 .redes {
     color: white;
